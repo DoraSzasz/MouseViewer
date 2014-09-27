@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mouse</string>
+    <string name="version_string">versiunea 1.2</string>
+    <string name="welcome_title">MouseViewer - Medical Volume Viewer</string>
+    <string name="welcome_message">Mouse</string>
+
+    <string name="copyright_text">\februarie, 2013 <a href=' '>Mouse</a></string>
+
+
+    <string name="head_image_title">Imagini CT ale capului</string>
+    <string name="head_image_message">
+    Interactiuni:\n\n
+    - apasa si trage un plan al imaginii pentru a-l misca\n\n
+    - apasa de doua ori pentru a vedea izosuprafata osului \n\n
+    </string>
+    <string name="volumes_directory">/sdcard/volumes</string>
+
+    
+
+
+</resources>
